@@ -35,5 +35,32 @@ img {
 }
 
 .section-2 {
-    background-image: url(images/female/girl.png);
+    background-image: url("images/female/girl.png");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
+
+/* .text {
+    text-align: center;
+}
+
+.text p {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.img-1 {
+    background-image: url(images/food/Project\ Cover.jpg);
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.img-2 {
+    background-image: url(images/food/Project\ Cover.jpg);
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+} */
